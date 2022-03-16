@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI; 
 
@@ -10,7 +11,7 @@ namespace MalbersAnimations.Selector
         private SelectorManager manager;               //Reference for the Selector Manager
 
         public Text TextSelectedName;
-        public Text TextItemData;
+        public TextMeshProUGUI TextItemData;
         public Text TextTotalCoins;
         public Text TextItemValue;
         public Text TextItemAmount;
