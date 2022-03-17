@@ -538,19 +538,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9a8d8849a2c8e24c84eca2e858b2cfb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: "<i>Senior Software Engineer</i>\nAmateur home gardener from the Great
-    Lakes region, current coding enthusiast Kavitha Velmurugan enjoys exploring different
-    Indian recipes along with family.\n<size=60%>\n<color=\"white\"> Ultimate Ability:<color=\"yellow\">
-    Adapt & Persist\n<color=\"white\"> Passive Ability:<color=\"yellow\"> Traveling\n\n<color=\"blue\">
-    L <color=\"white\">earning <color=\"green\"> 8 \n<color=\"blue\"> I <color=\"white\">nspired
-    <color=\"green\"> 7 \n<color=\"blue\"> N <color=\"white\">aan <color=\"green\">
-    2\n<color=\"blue\"> G <color=\"white\">ardening <color=\"green\"> 9\n<color=\"blue\">
-    R <color=\"white\">est <color=\"green\"> 7 \n<color=\"blue\"> A <color=\"white\">rt
-    <color=\"green\"> 9 \n<color=\"blue\"> P <color=\"white\">ets <color=\"green\">
-    5 \n<color=\"blue\"> H <color=\"white\">appy <color=\"green\"> 9 \n<color=\"blue\">
-    I <color=\"white\">ce <color=\"green\"> 1 \n<color=\"blue\"> C <color=\"white\">aring
-    <color=\"green\"> 8 \n<color=\"blue\"> A <color=\"white\">pple <color=\"green\">
-    9"
+  description: "<i>QA Analyst</i>\nStefan can be found eating at his desk, sleeping
+    on his couch, or chasing his son around the house.  \n<size=60%>\n<color=\"white\">
+    Ultimate Ability:<color=\"yellow\"> Group Hug\n<color=\"white\"> Passive Ability:<color=\"yellow\">
+    Stress\n\n<color=\"blue\"> L <color=\"white\">istening <color=\"green\"> 9\n<color=\"blue\">
+    I <color=\"white\">ntuition <color=\"green\"> 2 \n<color=\"blue\"> N <color=\"white\">urture
+    <color=\"green\"> 8\n<color=\"blue\"> G <color=\"white\">aming <color=\"green\">
+    6\n<color=\"blue\"> R <color=\"white\">eading <color=\"green\"> 6 \n<color=\"blue\">
+    A <color=\"white\">uthority <color=\"green\"> 0 \n<color=\"blue\"> P <color=\"white\">atience
+    <color=\"green\"> 3 \n<color=\"blue\"> H <color=\"white\">appiness <color=\"green\">
+    5 \n<color=\"blue\"> I <color=\"white\">llusion <color=\"green\"> 7 \n<color=\"blue\">
+    C <color=\"white\">ats <color=\"green\"> 1 \n<color=\"blue\"> A <color=\"white\">rt
+    <color=\"green\"> 3"
   locked:
     UseConstant: 1
     ConstantValue: 0
@@ -3781,19 +3780,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9a8d8849a2c8e24c84eca2e858b2cfb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: "<i>Senior Software Engineer</i>\nAmateur home gardener from the Great
-    Lakes region, current coding enthusiast Kavitha Velmurugan enjoys exploring different
-    Indian recipes along with family.\n<size=60%>\n<color=\"white\"> Ultimate Ability:<color=\"yellow\">
-    Adapt & Persist\n<color=\"white\"> Passive Ability:<color=\"yellow\"> Traveling\n\n<color=\"blue\">
-    L <color=\"white\">earning <color=\"green\"> 8 \n<color=\"blue\"> I <color=\"white\">nspired
-    <color=\"green\"> 7 \n<color=\"blue\"> N <color=\"white\">aan <color=\"green\">
-    2\n<color=\"blue\"> G <color=\"white\">ardening <color=\"green\"> 9\n<color=\"blue\">
-    R <color=\"white\">est <color=\"green\"> 7 \n<color=\"blue\"> A <color=\"white\">rt
-    <color=\"green\"> 9 \n<color=\"blue\"> P <color=\"white\">ets <color=\"green\">
-    5 \n<color=\"blue\"> H <color=\"white\">appy <color=\"green\"> 9 \n<color=\"blue\">
-    I <color=\"white\">ce <color=\"green\"> 1 \n<color=\"blue\"> C <color=\"white\">aring
-    <color=\"green\"> 8 \n<color=\"blue\"> A <color=\"white\">pple <color=\"green\">
-    9"
+  description: "<i>Senior Engineer, CTO</i>\nHe was \u201CBorn in New Jersey but
+    bred in Brasil\u201D!\n<size=60%>\n<color=\"white\"> Ultimate Ability:<color=\"yellow\">
+    Persistence\n<color=\"white\"> Passive Ability:<color=\"yellow\"> Kibitzing\n\n<color=\"blue\">
+    L <color=\"white\">anguage <color=\"green\"> 9\n<color=\"blue\"> I <color=\"white\">nsight
+    <color=\"green\"> 6 \n<color=\"blue\"> N <color=\"white\">osiness <color=\"green\">
+    3\n<color=\"blue\"> G <color=\"white\">eriatric <color=\"green\"> 9\n<color=\"blue\">
+    R <color=\"white\">eliability <color=\"green\"> 7 \n<color=\"blue\"> A <color=\"white\">goraphobic
+    <color=\"green\"> 2 \n<color=\"blue\"> P <color=\"white\">erambulation <color=\"green\">
+    5 \n<color=\"blue\"> H <color=\"white\">earty <color=\"green\"> 6 \n<color=\"blue\">
+    I <color=\"white\">ndulgent <color=\"green\"> 9 \n<color=\"blue\"> C <color=\"white\">at-worshipping
+    <color=\"green\"> 15 \n<color=\"blue\"> A <color=\"white\">bsolutism <color=\"green\">
+    1"
   locked:
     UseConstant: 1
     ConstantValue: 0
@@ -3842,7 +3840,7 @@ Animator:
   m_GameObject: {fileID: 2045855015}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: fcb47cc18d85f40ac846a89ddac5a729, type: 2}
+  m_Controller: {fileID: 9100000, guid: 65234bc9aed90414092eb07f73d6e8a2, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
