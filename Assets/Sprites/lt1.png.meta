@@ -205,10 +205,10 @@ TextureImporter:
       name: lt1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1352
-        width: 600
-        height: 338
+        x: 10
+        y: 1354
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,10 +226,10 @@ TextureImporter:
       name: lt1_1
       rect:
         serializedVersion: 2
-        x: 600
-        y: 1352
-        width: 600
-        height: 338
+        x: 608
+        y: 1354
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,10 +247,10 @@ TextureImporter:
       name: lt1_2
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 1352
-        width: 600
-        height: 338
+        x: 1206
+        y: 1354
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,10 +268,10 @@ TextureImporter:
       name: lt1_3
       rect:
         serializedVersion: 2
-        x: 1800
-        y: 1352
-        width: 600
-        height: 338
+        x: 1804
+        y: 1354
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,10 +289,10 @@ TextureImporter:
       name: lt1_4
       rect:
         serializedVersion: 2
-        x: 2400
-        y: 1352
-        width: 600
-        height: 338
+        x: 2402
+        y: 1354
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,10 +310,10 @@ TextureImporter:
       name: lt1_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1014
-        width: 600
-        height: 338
+        x: 10
+        y: 1018
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,10 +331,10 @@ TextureImporter:
       name: lt1_6
       rect:
         serializedVersion: 2
-        x: 600
-        y: 1014
-        width: 600
-        height: 338
+        x: 608
+        y: 1018
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,10 +352,10 @@ TextureImporter:
       name: lt1_7
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 1014
-        width: 600
-        height: 338
+        x: 1206
+        y: 1018
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -373,10 +373,10 @@ TextureImporter:
       name: lt1_8
       rect:
         serializedVersion: 2
-        x: 1800
-        y: 1014
-        width: 600
-        height: 338
+        x: 1804
+        y: 1018
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -394,10 +394,10 @@ TextureImporter:
       name: lt1_9
       rect:
         serializedVersion: 2
-        x: 2400
-        y: 1014
-        width: 600
-        height: 338
+        x: 2402
+        y: 1018
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -415,10 +415,10 @@ TextureImporter:
       name: lt1_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 676
-        width: 600
-        height: 338
+        x: 10
+        y: 682
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -436,10 +436,10 @@ TextureImporter:
       name: lt1_11
       rect:
         serializedVersion: 2
-        x: 600
-        y: 676
-        width: 600
-        height: 338
+        x: 608
+        y: 682
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -457,10 +457,10 @@ TextureImporter:
       name: lt1_12
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 676
-        width: 600
-        height: 338
+        x: 1206
+        y: 682
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,10 +478,10 @@ TextureImporter:
       name: lt1_13
       rect:
         serializedVersion: 2
-        x: 1800
-        y: 676
-        width: 600
-        height: 338
+        x: 1804
+        y: 682
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -499,10 +499,10 @@ TextureImporter:
       name: lt1_14
       rect:
         serializedVersion: 2
-        x: 2400
-        y: 676
-        width: 600
-        height: 338
+        x: 2402
+        y: 682
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -520,10 +520,10 @@ TextureImporter:
       name: lt1_15
       rect:
         serializedVersion: 2
-        x: 0
-        y: 338
-        width: 600
-        height: 338
+        x: 10
+        y: 346
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -541,10 +541,10 @@ TextureImporter:
       name: lt1_16
       rect:
         serializedVersion: 2
-        x: 600
-        y: 338
-        width: 600
-        height: 338
+        x: 608
+        y: 346
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -562,10 +562,10 @@ TextureImporter:
       name: lt1_17
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 338
-        width: 600
-        height: 338
+        x: 1206
+        y: 346
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -583,10 +583,10 @@ TextureImporter:
       name: lt1_18
       rect:
         serializedVersion: 2
-        x: 1800
-        y: 338
-        width: 600
-        height: 338
+        x: 1804
+        y: 346
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -604,10 +604,10 @@ TextureImporter:
       name: lt1_19
       rect:
         serializedVersion: 2
-        x: 2400
-        y: 338
-        width: 600
-        height: 338
+        x: 2402
+        y: 346
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -625,10 +625,10 @@ TextureImporter:
       name: lt1_20
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 600
-        height: 338
+        x: 10
+        y: 10
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -646,10 +646,10 @@ TextureImporter:
       name: lt1_21
       rect:
         serializedVersion: 2
-        x: 600
-        y: 0
-        width: 600
-        height: 338
+        x: 608
+        y: 10
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -667,10 +667,10 @@ TextureImporter:
       name: lt1_22
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 0
-        width: 600
-        height: 338
+        x: 1206
+        y: 10
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -688,10 +688,10 @@ TextureImporter:
       name: lt1_23
       rect:
         serializedVersion: 2
-        x: 1800
-        y: 0
-        width: 600
-        height: 338
+        x: 1804
+        y: 10
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -709,10 +709,10 @@ TextureImporter:
       name: lt1_24
       rect:
         serializedVersion: 2
-        x: 2400
-        y: 0
-        width: 600
-        height: 338
+        x: 2402
+        y: 10
+        width: 588
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
